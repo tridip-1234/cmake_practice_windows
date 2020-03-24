@@ -1,0 +1,4 @@
+D:/Practice/cmake_windows/build/CMakeFiles/tridip.dir
+D:/Practice/cmake_windows/build/CMakeFiles/INSTALL.dir
+D:/Practice/cmake_windows/build/CMakeFiles/ALL_BUILD.dir
+D:/Practice/cmake_windows/build/CMakeFiles/ZERO_CHECK.dir
